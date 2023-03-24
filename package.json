@@ -1,0 +1,9 @@
+{
+  "name": "@stevecrozz/esbuild-plugin-yaml",
+  "version": "0.3.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.1.3"
+  }
+}
